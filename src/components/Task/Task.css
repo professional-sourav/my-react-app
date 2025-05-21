@@ -1,0 +1,7 @@
+.tasks {
+    text-align: left;
+    width: 100%
+}
+.tasks > .task {
+    text-align: left;
+}
